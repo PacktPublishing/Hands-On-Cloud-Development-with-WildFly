@@ -1,0 +1,5 @@
+proxy:
+  catalog:
+    url: "http://catalog-service.petstore.svc:8080"
+  pricing:
+    url: "http://pricing-service.petstore.svc:8080"
