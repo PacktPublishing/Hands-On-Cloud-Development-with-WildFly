@@ -1,0 +1,5 @@
+{
+  "realm": "petstore",
+  "auth-server-url": "${env.KEYCLOAK_URL}/auth",
+  "resource": "petstore-ui"
+}

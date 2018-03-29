@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 1 -->
+<module xmlns="urn:jboss:module:1.5" name="org.postgresql.jdbc">
+
+  <resources>
+    <!-- 2 -->
+    <artifact name="org.postgresql:postgresql:42.1.4.jre7"/>
+  </resources>
+  <!-- 3 -->
+  <dependencies>
+    <module name="javax.api"/>
+    <module name="javax.transaction.api"/>
+  </dependencies>
+</module>

@@ -1,0 +1,91 @@
+
+
+#header {
+  background-color: #ddd;
+  padding-top: 1em;
+  border: 1px solid #777;
+  border-top: none;
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+.pet {
+ padding:	10px;
+ margin:	10px;
+ background-color:	#ffde00;
+ color:	#333;
+ display:	inline-block;
+ font-family:	sans-serif;
+ font-size:	15px;
+ text-align:	center;
+}
+
+.pet-grid {
+    border: 1px solid;
+    border-color: rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 10px;
+    transition: 0.3s;
+    width: 100%;
+    text-align:	center;
+}
+
+.description {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.title {
+    border-bottom:1px solid;
+    border-color: rgba(0,0,0,0.2);
+}
+
+.dock-right {
+    float: right;
+    margin-right: 10px;
+}
+
+#booker-logo {
+  font-size: 130%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+#footer {
+  font-size: 70%;
+  color: #999;
+  border-top: 1px solid #999;
+}
+
+
+#header ul {
+  line-height: 1.5;
+}
+
+#header ul .active {
+  font-weight: bold;
+}
+
+#welcome {
+  text-align: center;
+}
+
+.book-title {
+  font-size: 120%;
+  font-weight: bold;
+}
+
+.book-author {
+  font-size: 110%;
+}
+
+.explanation {
+  width: 30%;
+  float: right;
+}
+
+.details {
+  color: #999;
+}

@@ -1,0 +1,13 @@
+swarm:
+  datasources:
+    data-sources:
+      CatalogDS:
+       driver-name: postgresql
+       connection-url: jdbc:postgresql://catalogdb.petstore.svc/catalogdb
+       user-name: catalog
+       password: catalog
+    jdbc-drivers:
+      postgresql:
+        driver-class-name: org.postgresql.Driver
+        xa-datasource-name: org.postgresql.xa.PGXADataSource
+        driver-module-name: org.postgresql.jdbc

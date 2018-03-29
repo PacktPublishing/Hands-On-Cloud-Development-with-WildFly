@@ -1,0 +1,13 @@
+swarm:
+  datasources:
+    data-sources:
+      PricingDS:
+       driver-name: postgresql
+       connection-url: jdbc:postgresql://pricingdb.petstore.svc/pricingdb
+       user-name: pricing
+       password: pricing
+    jdbc-drivers:
+      postgresql:
+        driver-class-name: org.postgresql.Driver
+        xa-datasource-name: org.postgresql.xa.PGXADataSource
+        driver-module-name: org.postgresql.jdbc
