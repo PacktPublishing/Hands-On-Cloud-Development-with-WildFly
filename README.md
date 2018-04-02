@@ -32,6 +32,3 @@ navigate through them, the examples are indexed from within the chapters.
 * [Hands-on Full Stack Development with Angular 5 and Firebase](https://www.packtpub.com/application-development/hands-full-stack-development-angular-5-and-firebase?utm_source=github&utm_medium=repository&utm_campaign=9781788298735)
 
 * [Hands-on Artificial Intelligence with TensorFlow [Video]](https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-tensorflow-video?utm_source=github&utm_medium=repository&utm_campaign=9781789135091)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
